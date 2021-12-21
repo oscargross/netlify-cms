@@ -12,7 +12,7 @@ Netlify CMS 2.4.0 brings deploy preview links!
 
 ## Seeing is believing
 
-AAAAAAAAAAAAAAAA The editorial workflow allows editors to create draft content in Netlify CMS, and Netlify can
+The editorial workflow allows editors to create draft content in Netlify CMS, and Netlify can
 provide deploy previews of draft content, but there hasn't been a way to access links to these
 preview builds from within Netlify CMS. The preview pane in the editor is a good tool for seeing how
 content will look on the site, but in the words of Marvin Gaye, "ain't nothing like the real thing!"
